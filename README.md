@@ -95,6 +95,9 @@ This project demonstrates the following Python concepts:
 * Menu-Driven Programming
 
 ---
+## 🎥 Project Demo
+
+[![Watch Video](https://img.shields.io/badge/🎬%20Watch%20Video-yellow?style=for-the-badge&logo=youtube&logoColor=red)]()
 
 # 📋 Program Flow
 
